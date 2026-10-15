@@ -46,7 +46,7 @@ Customer churn directly hurts revenue. This project prepares and analyses a larg
 - **Jupyter Notebook**: cleaning and analysis workflow
 - **MySQL**: storage and SQL-based EDA
 - **SQLAlchemy + PyMySQL**: Python → MySQL connection
-- **Dashboard**: <!-- add your tool, e.g. Power BI / Tableau / Excel -->
+- **Dashboard**: Power BI 
 
 ## 🔄 Workflow
 
