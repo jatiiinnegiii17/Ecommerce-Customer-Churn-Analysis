@@ -87,15 +87,6 @@ Customer churn directly hurts revenue. This project prepares and analyses a larg
 - Most customers fall in the `excellent` health category (36,874).
 - Note: the dataset is synthetic/simulated, so findings illustrate method rather than real business results.
 
-## 🗺️ Next Steps
-
-- [x] Data cleaning and feature engineering
-- [x] Load data into MySQL
-- [x] SQL exploratory analysis
-- [x] Dashboard
-- [ ] Churn prediction model
-- [ ] Retention strategy recommendations
-
 ## 👤 Author
 
 Jatin: MCA (AI & Data Science) student, aspiring Data / Business Analyst
