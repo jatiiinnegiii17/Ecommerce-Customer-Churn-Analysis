@@ -83,9 +83,4 @@ Customer churn directly hurts revenue. This project prepares a large churn datas
 
 ## 👤 Author
 
-**Jatin** – MCA (AI & Data Science) student, aspiring Data / Business Analyst
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-
----
-⭐ If you found this useful, consider starring the repo!
+Jatin – MCA (AI & Data Science) student, aspiring Data / Business Analyst
